@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Mogheess! 👋</h1>
-<h3 align="center">A passionate developer exploring the world of technology</h3>
+<h3 align="center">Learning different technologies</h3>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-placeholder-image.png" alt="banner" width="600">
+  <img src="https://github.com/user-attachments/assets/3b9b0dff-9e05-4e6a-aed8-13a88eb4dc77" alt="banner" width="600">
 </p>
 
 ---
@@ -21,16 +21,10 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mogheess&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mogheess&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
