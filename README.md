@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mogheess! 👋</h1>
+<h1 align="center">Hi, I'm Moghees.</h1>
 <h3 align="center">Learning different technologies</h3>
 
 ---
@@ -9,7 +9,7 @@
 
 ---
 
-### 👩‍💻 About Me:
+### About
 - 🌱 I’m currently learning **Generative AI and Mobile Development**
 - 💬 Ask me about **Fullstack Development**
 - 🚀 I’m working on **a small side project**
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Skills & Tools:
+### Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0b0f0b?style=for-the-badge&logo=python&logoColor=c8ff3d" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-0b0f0b?style=for-the-badge&logo=javascript&logoColor=c8ff3d" alt="JavaScript">
@@ -36,7 +36,7 @@
 
 ---
 
-### 🌐 Connect with Me:
+### Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/m0ghees" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0b0f0b?style=for-the-badge&logo=linkedin&logoColor=c8ff3d" alt="LinkedIn"></a>
   <a href="https://twitter.com/zdstack" target="_blank"><img src="https://img.shields.io/badge/X_%2F_Twitter-0b0f0b?style=for-the-badge&logo=x&logoColor=c8ff3d" alt="X / Twitter"></a>
