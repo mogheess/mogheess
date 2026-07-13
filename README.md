@@ -1,28 +1,14 @@
 <p align="center">
-  <img src="./profile-assets/ghost-terrain.gif" alt="Animated ghost terrain" width="100%" />
+  <img src="./profile-assets/ghost-terrain-studio.gif" alt="Animated Ghost Terrain interface" width="100%" />
 </p>
 
-<p align="center">
-  <code>android</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>terminal tools</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>generative systems</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>full-stack</code>
-</p>
+Hi, I'm Moghees. I build mobile apps, terminal tools, and web projects.
 
-<br />
-
-I make focused software with personality: an Android reader, small terminal tools, and visual experiments that make the web feel less interchangeable.
-
-<br />
-
-<p align="center">
-  <img src="./profile-assets/signal-charts.gif" alt="Animated signal charts" width="100%" />
-</p>
-
-### Selected transmissions
+### Projects
 
 - **[Kagari](https://github.com/mogheess/kagari)** — a modern manga and manhwa reader for Android, built around a clean local-first experience.
 - **[Awqat CLI](https://github.com/mogheess/awqat-cli)** — Islamic prayer times for your city, directly from the terminal.
-- **Dither Kit** — an experimental visual engine for patterns, images, type, motion, and data.
-
-### Working with
+### Tools
 
 `Python` · `JavaScript` · `React` · `Next.js` · `Supabase` · `Docker`
 
@@ -30,5 +16,3 @@ I make focused software with personality: an Android reader, small terminal tool
   <a href="https://www.linkedin.com/in/m0ghees">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://twitter.com/zdstack">X / Twitter</a>
 </p>
-
-<p align="center"><sub>SIGNAL END / THANKS FOR VISITING</sub></p>
