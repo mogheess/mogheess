@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-assets/hero.svg" alt="Moghees — building the in-between" width="100%" />
+  <img src="./profile-assets/ghost-terrain.gif" alt="Animated ghost terrain" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ I make focused software with personality: an Android reader, small terminal tool
 <br />
 
 <p align="center">
-  <img src="./profile-assets/signals.svg" alt="Current projects: Kagari, Awqat CLI, and Dither Lab" width="100%" />
+  <img src="./profile-assets/signal-charts.gif" alt="Animated signal charts" width="100%" />
 </p>
 
 ### Selected transmissions
