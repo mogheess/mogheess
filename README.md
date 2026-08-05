@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I'm Moghees.</h1>
-<h3 align="center">Learning different technologies</h3>
-
----
 
 <p align="center">
   <img src="./profile-assets/ghost-terrain-banner.gif" alt="Animated ghost terrain" width="100%">
 </p>
 
 ---
+
+<h1 align="center">Hi, I'm Moghees.</h1>
+<h3 align="center">Learning different technologies</h3>
 
 ### About
 - 🌱 I’m currently learning **Generative AI and Mobile Development**
